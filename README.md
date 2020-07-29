@@ -16,3 +16,9 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 - [Assistant Prof. Dr Biplab Banerjee](https://scholar.google.co.in/citations?user=IEcsMPAAAAAJ&hl=en)
 - [Assistant Prof. Tanmoy Dasgupta](https://scholar.google.com/citations?user=-AlEIfQAAAAJ)
 - [Professor Dr Mita Nasipuri](https://scholar.google.co.in/citations?user=KuRwZmgAAAAJ&hl=en)
+
+### Find me:
+- [hmrishavbandyopadhyay[at]gmail[dot]com](mailto:hmrishavbandyopadhyay-remove-if-human@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hmrishav-bandyopadhyay-002896189/)
+
+I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.
