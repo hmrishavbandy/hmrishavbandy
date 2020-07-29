@@ -7,7 +7,8 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 
 ### List of completed projects:
 
-- A Gated and Bifurcated Stacked U-Net Module for Document Image Dewarping [arXiv](https://arxiv.org/abs/2007.09824)
+- A Gated and Bifurcated Stacked U-Net Module for Document Image Dewarping [arXiv](https://arxiv.org/abs/2007.09824) [Github](https://github.com/DVLP-CMATERJU/RectiNet) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-gated-and-bifurcated-stacked-u-net-module/ssim-on-docunet)](https://paperswithcode.com/sota/ssim-on-docunet?p=a-gated-and-bifurcated-stacked-u-net-module)
+
 - Segmentation of Pap Smear Images for Cervical Cancer Detection. [IEEE Xplore](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemsTW4eHqAhWqzjgGHVHoCbAQFjAAegQIAhAB&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9106484&usg=AOvVaw3Nmunj3ZRUUTBKoXTtD6ld)
 
 ### Present Supervisors:
