@@ -11,7 +11,7 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 
 - Segmentation of Pap Smear Images for Cervical Cancer Detection. [IEEE Xplore](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemsTW4eHqAhWqzjgGHVHoCbAQFjAAegQIAhAB&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9106484&usg=AOvVaw3Nmunj3ZRUUTBKoXTtD6ld)
 
-### Present Supervisors:
+### Supervisors List:
 
 - [Associate Prof. Dr Nibaran Das](https://scholar.google.co.in/citations?user=vMx63B4AAAAJ&hl=en)
 - [Assistant Prof. Dr Biplab Banerjee](https://scholar.google.co.in/citations?user=IEcsMPAAAAAJ&hl=en)
