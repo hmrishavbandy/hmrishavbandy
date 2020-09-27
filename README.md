@@ -13,6 +13,9 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 
 ### Supervisors List:
 
+- [Assistant Prof. Dr Jing Zhang](https://scholar.google.com/citations?user=4K5Gkf0AAAAJ&hl=en)
+- [Sinuo Liu (Pursuing PhD)](https://scholar.google.com/citations?user=EVMvLssAAAAJ&hl=zh-CN)
+- [Assistant Prof. Dr. Min Xu](https://scholar.google.com/citations?user=Y3Cqt0cAAAAJ&hl=en)
 - [Associate Prof. Dr Nibaran Das](https://scholar.google.co.in/citations?user=vMx63B4AAAAJ&hl=en)
 - [Assistant Prof. Dr Biplab Banerjee](https://scholar.google.co.in/citations?user=IEcsMPAAAAAJ&hl=en)
 - [Assistant Prof. Tanmoy Dasgupta](https://scholar.google.com/citations?user=-AlEIfQAAAAJ)
