@@ -24,6 +24,6 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 ### Find me:
 - [hmrishavbandyopadhyay[at]gmail[dot]com](mailto:hmrishavbandyopadhyay-remove-if-human@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hmrishav-bandyopadhyay-002896189/)
-- [Twitter](https://twitter.com/HmrishavBandyo1)
+- [Twitter](https://twitter.com/hmrishavbandy)
 
 I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.
