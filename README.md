@@ -2,7 +2,7 @@
 
 This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergraduate researcher at Jadavpur University, India. The primary focus of my work is Deep Learning for Computer Vision. I code in Python and make good use of the PyTorch library. Apart from PyTorch, I find myself proficient in both Tensorflow and Keras for implementing my ideas. Please be redirected to my personal profile page or my blog to get an idea of collaborations with me which might be welcome.
 
-### [The Convolved Blog](https://www.theconvolvedblog.vision)
+
 ### [Homepage](https://hmrishavbandy.github.io/)
 
 ### List of completed projects:
