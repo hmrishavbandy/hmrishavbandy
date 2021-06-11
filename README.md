@@ -30,3 +30,7 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmrishavbandy%2Fhmrishavbandy%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Counter&edge_flat=true)](https://hits.seeyoufarm.com) (Since 10th Feb,2021)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmrishavbandy&show_icons=true&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmrishavbandy&count_private=True&exclude_repo=World-Covid)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmrishavbandy) -->
