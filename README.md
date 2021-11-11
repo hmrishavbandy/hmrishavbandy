@@ -6,7 +6,7 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 ### [Homepage](https://hmrishavbandy.github.io/)
 
 ### List of completed projects:
-
+- Cryo-shift: Reducing domain shift in cryo-electron subtomograms with unsupervised domain adaptation and randomization (Bioinformatics)
 - RectiNet-v2: A stacked network architecture for document image dewarping [arXiv](https://arxiv.org/abs/2102.01120)
 - A Gated and Bifurcated Stacked U-Net Module for Document Image Dewarping (ICPR '21) [arXiv](https://arxiv.org/abs/2007.09824) [Github](https://github.com/DVLP-CMATERJU/RectiNet) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-gated-and-bifurcated-stacked-u-net-module/ssim-on-docunet)](https://paperswithcode.com/sota/ssim-on-docunet?p=a-gated-and-bifurcated-stacked-u-net-module)
 
@@ -28,8 +28,8 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 
 I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmrishavbandy%2Fhmrishavbandy%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Counter&edge_flat=true)](https://hits.seeyoufarm.com) (Since 10th Feb,2021)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmrishavbandy%2Fhmrishavbandy%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Counter&edge_flat=true)](https://hits.seeyoufarm.com) (Since 10th Feb,2021) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmrishavbandy&show_icons=true&count_private=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmrishavbandy&show_icons=true&count_private=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmrishavbandy&count_private=True&exclude_repo=World-Covid)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmrishavbandy) -->
