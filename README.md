@@ -1,6 +1,6 @@
 ### I code, therefore I am.
 
-This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergraduate researcher at Jadavpur University, India. The primary focus of my work is Deep Learning for Computer Vision. I code in Python and make good use of the PyTorch library. Apart from PyTorch, I find myself proficient in both Tensorflow and Keras for implementing my ideas. Please be redirected to my personal profile page or my blog to get an idea of collaborations with me which might be welcome.
+This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am a first year PhD student at SketchX, CVSSP, University of Surrey. The primary focus of my work is Deep Learning for Computer Vision. Please be redirected to my personal profile page or my blog to get an idea of collaborations with me which might be welcome.
 
 
 ### [Homepage](https://hmrishavbandy.github.io/)
@@ -25,8 +25,6 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am an undergradu
 - [hmrishavbandyopadhyay[at]gmail[dot]com](mailto:hmrishavbandyopadhyay-remove-if-human@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hmrishav-bandyopadhyay-002896189/)
 - [Twitter](https://twitter.com/bandy_hmrishav)
-
-I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmrishavbandy%2Fhmrishavbandy%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Counter&edge_flat=true)](https://hits.seeyoufarm.com) (Since 10th Feb,2021) -->
 
