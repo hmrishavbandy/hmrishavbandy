@@ -12,15 +12,6 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am a first year 
 
 - Segmentation of Pap Smear Images for Cervical Cancer Detection. [IEEE Xplore](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemsTW4eHqAhWqzjgGHVHoCbAQFjAAegQIAhAB&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9106484&usg=AOvVaw3Nmunj3ZRUUTBKoXTtD6ld)
 
-### Supervisors List:
-
-- [Assistant Prof. Dr Mehran Ebrahimi](https://scholar.google.com/citations?user=aNoW2O4AAAAJ&hl=en)
-- [Assistant Prof. Dr Jing Zhang](https://scholar.google.com/citations?user=4K5Gkf0AAAAJ&hl=en)
-- [Assistant Prof. Dr. Min Xu](https://scholar.google.com/citations?user=Y3Cqt0cAAAAJ&hl=en)
-- [Associate Prof. Dr Nibaran Das](https://scholar.google.co.in/citations?user=vMx63B4AAAAJ&hl=en)
-- [Assistant Prof. Dr Biplab Banerjee](https://scholar.google.co.in/citations?user=IEcsMPAAAAAJ&hl=en)
-- [Professor Dr Mita Nasipuri](https://scholar.google.co.in/citations?user=KuRwZmgAAAAJ&hl=en)
-
 ### Find me:
 - [hmrishavbandyopadhyay[at]gmail[dot]com](mailto:hmrishavbandyopadhyay-remove-if-human@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hmrishav-bandyopadhyay-002896189/)
