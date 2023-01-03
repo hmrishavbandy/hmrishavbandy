@@ -5,13 +5,6 @@ This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am a first year 
 
 ### [Homepage](https://hmrishavbandy.github.io/)
 
-### List of completed projects:
-- Cryo-shift: Reducing domain shift in cryo-electron subtomograms with unsupervised domain adaptation and randomization (Bioinformatics)
-- RectiNet-v2: A stacked network architecture for document image dewarping [arXiv](https://arxiv.org/abs/2102.01120)
-- A Gated and Bifurcated Stacked U-Net Module for Document Image Dewarping (ICPR '21) [arXiv](https://arxiv.org/abs/2007.09824) [Github](https://github.com/DVLP-CMATERJU/RectiNet) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-gated-and-bifurcated-stacked-u-net-module/ssim-on-docunet)](https://paperswithcode.com/sota/ssim-on-docunet?p=a-gated-and-bifurcated-stacked-u-net-module)
-
-- Segmentation of Pap Smear Images for Cervical Cancer Detection. [IEEE Xplore](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemsTW4eHqAhWqzjgGHVHoCbAQFjAAegQIAhAB&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9106484&usg=AOvVaw3Nmunj3ZRUUTBKoXTtD6ld)
-
 ### Find me:
 - [hmrishavbandyopadhyay[at]gmail[dot]com](mailto:hmrishavbandyopadhyay-remove-if-human@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hmrishav-bandyopadhyay-002896189/)
