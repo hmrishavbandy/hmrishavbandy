@@ -1,5 +1,3 @@
-### I code, therefore I am.
-
 This is Hmrishav Bandyopadhyay -- Welcome to my github space. I am a first year PhD student at SketchX, CVSSP, University of Surrey. The primary focus of my work is Deep Learning for Computer Vision. Please be redirected to my personal profile page or my blog to get an idea of collaborations with me which might be welcome.
 
 
