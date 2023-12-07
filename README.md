@@ -4,7 +4,7 @@ This is Hmrishav Bandyopadhyay. I am a second year PhD student at SketchX, CVSSP
 ### [Homepage](https://hmrishavbandy.github.io/)
 
 ### Find me:
-- [hmrishavbandyopadhyay[at]gmail[dot]com](mailto:hmrishavbandyopadhyay-remove-if-human@gmail.com)
+- [hmrishavbandyopadhyay[at]gmail[dot]com](mailto:hmrishavbandyopadhyay[AT]gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hmrishav-bandyopadhyay-002896189/)
 - [Twitter](https://twitter.com/bandy_hmrishav)
 
