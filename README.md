@@ -1,4 +1,4 @@
-This is Hmrishav Bandyopadhyay. I am a second year PhD student at SketchX, CVSSP, University of Surrey.
+This is Hmrishav Bandyopadhyay. I am a PhD student at SketchX, CVSSP, University of Surrey.
 
 
 ### [Homepage](https://hmrishavbandy.github.io/)
